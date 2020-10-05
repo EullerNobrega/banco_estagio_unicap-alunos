@@ -1,0 +1,13 @@
+{
+  "registration": "201610564545",
+  "email": "teste@gmail.com",
+  "name": "teste sobrenome",
+  "skills": [
+    {
+      "description": "Python"
+    },
+    {
+      "description" : "Java"
+    }
+  ]
+}
